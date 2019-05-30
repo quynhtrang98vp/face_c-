@@ -1,0 +1,16 @@
+D:\Visual\Face_recognition\Face_recognition\obj\Debug\Face_recognition.csprojAssemblyReference.cache
+D:\Visual\Face_recognition\Face_recognition\obj\Debug\Face_recognition.csproj.CoreCompileInputs.cache
+D:\Visual\Face_recognition\Face_recognition\bin\Debug\Face_recognition.exe.config
+D:\Visual\Face_recognition\Face_recognition\bin\Debug\Face_recognition.exe
+D:\Visual\Face_recognition\Face_recognition\bin\Debug\Face_recognition.pdb
+D:\Visual\Face_recognition\Face_recognition\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.Face.dll
+D:\Visual\Face_recognition\Face_recognition\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\Visual\Face_recognition\Face_recognition\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+D:\Visual\Face_recognition\Face_recognition\bin\Debug\Newtonsoft.Json.dll
+D:\Visual\Face_recognition\Face_recognition\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.Face.xml
+D:\Visual\Face_recognition\Face_recognition\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+D:\Visual\Face_recognition\Face_recognition\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+D:\Visual\Face_recognition\Face_recognition\bin\Debug\Newtonsoft.Json.xml
+D:\Visual\Face_recognition\Face_recognition\obj\Debug\Face_recognition.csproj.CopyComplete
+D:\Visual\Face_recognition\Face_recognition\obj\Debug\Face_recognition.exe
+D:\Visual\Face_recognition\Face_recognition\obj\Debug\Face_recognition.pdb
